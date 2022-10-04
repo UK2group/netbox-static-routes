@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 
 setup(
     name = 'netbox-static-routes',
-    version = '0.1.1', # would be nice to import the version from netbox_static_routes/version.py
+    version = '0.2', # would be nice to import the version from netbox_static_routes/version.py
     description = 'Manage static routes in Netbox',
     url = 'https://github.com/jbparrish17/netbox-static-routes',
     author = 'Joshua Parrish',
